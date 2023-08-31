@@ -1,0 +1,1 @@
+export const URL="https://raw.githubusercontent.com/Vanshika-Dargan/PizzaJSON/main/pizza.json"
